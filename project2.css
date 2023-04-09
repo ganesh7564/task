@@ -1,0 +1,175 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+html
+{
+	height: 1200px;
+	box-sizing: border-box;
+}
+ header
+{
+	background-color: #fff;
+	border-bottom: 2px solid black;
+	top: 0;
+	left: 0;
+	right: 0;
+	padding: 4px;
+	position: fixed;
+}
+#logo img
+{
+	height: 100px;
+	width: 100px;
+text-align: left;
+}
+body
+{
+	position: relative;
+	background-color:lightyellow;
+}
+.header1
+{
+	text-align: center;
+	font-size: 15px;
+	text-transform: uppercase;
+}
+.header1 h1
+{
+	text-align: center;
+}
+.nav
+{
+	text-decoration: none;
+	text-align: right;
+	margin-right: 30px;
+	font-weight: bolder;
+	text-decoration-style: none;
+}
+.nav a
+{
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+	margin-inline: 20px;
+}
+
+.nav a
+{
+	letter-spacing: 1px;
+	word-spacing: 20px;	
+	color: darkblue;
+}
+footer
+{
+	text-align: center;
+	background-color: black;
+	color: white; 
+	bottom: 0;   
+	left: 0;
+	right: 0;
+    margin-top: 50px;
+} 
+span
+{
+	font-size: 23px	;
+}
+
+.main-article
+{
+	height:220px ;
+	width: 600px;
+	border: 2px solid black;
+	margin-left: 340px;
+	margin-top:75px;
+	background-color: whitesmoke;
+    transition: all 1s ease-in-out;
+    border-radius: 20px;
+}
+.main-article:hover
+{
+background-color: black;
+color: white;
+font-size: 19px;
+border-radius: 4px solid white;
+}
+
+.main-article:hover h1
+{
+	text-decoration: underline;
+	color: white;
+	text-align: center;
+}
+
+.main-article1
+{
+	height:220px ;
+	width: 600px;
+	border: 2px solid black;
+	margin-left: 340px;
+	margin-top:49px ;
+	background-color: whitesmoke;
+    transition: all 1s ease-in-out;
+    border-radius: 20px;
+}
+.main-article1:hover
+{
+background-color:silver;
+font-size: 20px;
+}
+
+.main-article4:hover h1
+{
+	text-decoration: underline;
+	text-align: center;
+}
+
+.main-article4
+{
+	height:220px ;
+	width: 600px;
+	border: 2px solid black;
+	margin-left: 340px;
+	margin-top:49px ;
+	background-color: whitesmoke;
+    transition: all 1s ease-in-out;
+    border-radius: 20px;
+   }
+.main-article4:hover
+{
+background-color:lightblue;
+font-size: 20px;
+}
+
+.main-article1:hover h1
+{
+	text-decoration: underline;
+	text-align: center;
+}
+
+
+.main-article2
+{
+	height:220px ;
+	width: 600px;
+	border: 2px solid black;
+	margin-left: 340px;
+	margin-top:47px ;
+	margin-bottom: 2vh;
+	background-color: whitesmoke;
+    transition: all 1s ease-in-out; 
+    border-radius: 20px;
+}
+
+.main-article2:hover
+{
+background-color: mediumaquamarine;
+font-size: 20px;
+}
+
+.main-article2:hover h1
+{
+	text-decoration: underline;
+	text-align: center;
+}
